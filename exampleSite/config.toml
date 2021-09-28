@@ -1,12 +1,12 @@
 baseURL = "https://example.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Hallo"
-theme = "hallo"
+title = "Mirror"
+theme = "mirror"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
 [Author]
-    name = "Hallo"
+    name = "Mirror"
 
 [params]
 
@@ -25,4 +25,3 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
         icon = "twitter"
         title = "Twitter"
         url = "https://twitter.com/"
-      
