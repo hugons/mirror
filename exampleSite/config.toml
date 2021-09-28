@@ -6,7 +6,7 @@ theme = "mirror"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
 [Author]
-    name = "Mirror"
+    name = "HugoNS"
 
 [params]
 
